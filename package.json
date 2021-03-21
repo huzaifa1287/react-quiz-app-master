@@ -2,6 +2,9 @@
   "homepage": "https://github.com/huzaifa1287/react-quiz-app-master",
   "name": "react-quiz-app",
   "version": "0.1.0",
+  "engines": {
+    "node": "14.x"
+  },
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.12",
